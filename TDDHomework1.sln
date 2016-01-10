@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDHomework1", "TDDHomework1\TDDHomework1.csproj", "{F42A047B-67CF-4FB8-80D2-3B90616A44F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDHomework1Tests", "TDDHomework1Tests\TDDHomework1Tests.csproj", "{CF82E3A8-52FD-4E7E-8063-B5AA73A540F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42A047B-67CF-4FB8-80D2-3B90616A44F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42A047B-67CF-4FB8-80D2-3B90616A44F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42A047B-67CF-4FB8-80D2-3B90616A44F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42A047B-67CF-4FB8-80D2-3B90616A44F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF82E3A8-52FD-4E7E-8063-B5AA73A540F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF82E3A8-52FD-4E7E-8063-B5AA73A540F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF82E3A8-52FD-4E7E-8063-B5AA73A540F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF82E3A8-52FD-4E7E-8063-B5AA73A540F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
